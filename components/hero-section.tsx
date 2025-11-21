@@ -58,7 +58,7 @@ export default function HeroSection() {
               <div className="flex flex-col sm:flex-row gap-6 lg:pt-6 items-start sm:items-center">
                 <div className="flex items-center gap-3">
                   <Link
-                    href="https://www.github.com/junayet4o12"
+                    href="https://www.github.com/JunayetAlam"
                     target="_blank"
                     rel="noreferrer"
                     className="w-10 h-10 bg-background border border-border hover:border-primary/60 rounded-full flex items-center justify-center text-muted-foreground hover:text-primary transition-colors duration-200"

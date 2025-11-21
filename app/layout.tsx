@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     countryName: "Bangladesh",
     alternateLocale: [
       "https://www.linkedin.com/in/junayet-alam/",
-       "https://github.com/junayet4o12",
+       "https://github.com/JunayetAlam",
       "https://www.facebook.com/junayet4012",
       "https://wa.me/+8801632884012"
     ]

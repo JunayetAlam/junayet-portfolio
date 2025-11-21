@@ -33,7 +33,7 @@ export default function StatusHeader() {
                 <Linkedin size={18} />
             </Link>
             <Link
-                href="https://github.com/junayet4o12"
+                href="https://github.com/JunayetAlam"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"

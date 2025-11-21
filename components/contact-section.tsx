@@ -90,7 +90,7 @@ export default function ContactSection() {
                   <p className="text-sm text-muted-foreground mb-4">Connect with me</p>
                   <div className="flex items-center gap-3">
                     <Link
-                      href="https://www.github.com/junayet4o12"
+                      href="https://www.github.com/JunayetAlam"
                       target="_blank"
                       rel="noreferrer"
                       className="w-10 h-10 bg-background border border-border hover:border-primary/60 rounded-full flex items-center justify-center text-muted-foreground hover:text-primary transition-colors duration-200"
@@ -98,7 +98,7 @@ export default function ContactSection() {
                       <Github size={18} />
                     </Link>
                     <Link
-                      href="https://www.linkedin.com/in/junayet4o12"
+                      href="https://www.linkedin.com/in/JunayetAlam"
                       target="_blank"
                       rel="noreferrer"
                       className="w-10 h-10 bg-background border border-border hover:border-primary/60 rounded-full flex items-center justify-center text-muted-foreground hover:text-primary transition-colors duration-200"

@@ -53,7 +53,7 @@ const personalInfo = [
 
 const socialLinks = [
   {
-    href: "https://www.github.com/junayet4o12",
+    href: "https://www.github.com/JunayetAlam",
     icon: <Github className="size-4 md:size-5" />,
     label: "GitHub",
   },

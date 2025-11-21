@@ -14,8 +14,8 @@ export const projects: ProjectType[] = [
             backend: "https://bi-cicle-backend.vercel.app/"
         },
         code_repo: {
-            frontend: "https://github.com/junayet4o12/cycle-craze-frontend",
-            backend: "https://github.com/junayet4o12/bi-cicle-backend"
+            frontend: "https://github.com/JunayetAlam/cycle-craze-frontend",
+            backend: "https://github.com/JunayetAlam/bi-cicle-backend"
         },
         technology: {
             frontend: [
@@ -108,8 +108,8 @@ export const projects: ProjectType[] = [
             backend: "https://zamshed-store-backend.vercel.app",
         },
         code_repo: {
-            frontend: "https://github.com/junayet4o12/zamshed_store_frontend",
-            backend: "https://github.com/junayet4o12/zamshed_store_backend",
+            frontend: "https://github.com/JunayetAlam/zamshed_store_frontend",
+            backend: "https://github.com/JunayetAlam/zamshed_store_backend",
         },
         technology: {
             frontend: [
@@ -180,8 +180,8 @@ export const projects: ProjectType[] = [
             backend: "https://form-maker-backend.vercel.app/",
         },
         code_repo: {
-            frontend: "https://github.com/junayet4o12/form-maker",
-            backend: "https://github.com/junayet4o12/form-maker-backend",
+            frontend: "https://github.com/JunayetAlam/form-maker",
+            backend: "https://github.com/JunayetAlam/form-maker-backend",
         },
         technology: {
             frontend: ["React", "Vite", "React Router DOM"],

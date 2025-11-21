@@ -30,7 +30,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-4 pt-4">
               <Link
-                href="https://www.github.com/junayet4o12"
+                href="https://www.github.com/JunayetAlam"
                 target="_blank"
                 rel="noreferrer"
                 className="w-8 h-8 bg-background/50 border border-border hover:border-primary/60 rounded-full flex items-center justify-center text-muted-foreground hover:text-primary transition-colors duration-200"
